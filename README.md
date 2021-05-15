@@ -1,0 +1,2 @@
+# spookeez
+mod for fnf
